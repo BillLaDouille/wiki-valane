@@ -9,7 +9,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🌄 Distance de vue sur les serveurs
-- **View-distance** : 7 (sauf sur Duel et Créatif).
+- **View-distance** : 7 chunk (sauf sur Duel et Créatif).
 
 ---
 
@@ -34,7 +34,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🏭 Spawners
 :::tip 💡
-- **Casser un spawner** : Nécessite aucun grade boutique, et pas besoin d'une pioche spéciale.
+- **Casser un spawner** : Ne nécessite aucun grade boutique, et pas besoin d'une pioche spéciale.
   :::
 
 ---
@@ -45,7 +45,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🔍 Commande `/seen`
-- **Voir l'inactivité d'un joueur** : Utilisez `/seen <pseudo>`.
+- **Voir la dernière connexion d'un joueur** : Utilisez `/seen <pseudo>`.
 
 ---
 
@@ -78,7 +78,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 💤 AFK
-- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité.
+- **Inactivité** : Mode AFK activé après 15 minutes d'inactivité.
 
 ---
 
