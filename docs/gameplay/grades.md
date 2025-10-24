@@ -37,7 +37,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | Commande/Avantage          | Joueur | Mage | Magicien | Sorcier | Sorcier+         |
 |----------------------------|---------|---|---|---|----------------|
 | **Fly**      | Aucun   | 30m/jour | 1h/jour | illimité | illimité        |
-| **/back**                   | ❌      | ✅ | ✅ | ✅ | ✅              |
+| **/back**                   | ✅      | ✅ | ✅ | ✅ | ✅              |
 | **/emote**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/craft**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/ptime**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
@@ -66,3 +66,4 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **Coffre de shop**           | 10      | 20 | 20 | 20 | 20             |
 | **Salaire par heure**        | 50      | 100 | 150 | 200 | 200            |
 | **Kit**                     | Kit Joueur | Kit Mage | Kit Magicien | Kit Sorcier | Kit Sorcier      |
+
